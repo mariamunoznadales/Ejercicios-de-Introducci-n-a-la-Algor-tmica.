@@ -3,6 +3,7 @@ LINK DEL REPOSITORIO: [(https://github.com/mariamunoznadales/Ejercicios-de-Intro
 
 ## Ejercicio 8
 Este código proporciona funciones para cálculos financieros básicos, implementado en la clase CalculadoraFinanciera.
+
 **Funcionalidades:**
 Calcular Precio con Impuestos Incluidos (TII):
 
@@ -18,6 +19,7 @@ Calcular Intereses Generados:
 
 ## Ejercicio 9
 Este código proporciona funciones para calcular la media aritmética y la media ponderada de una lista de números.
+
 **Funcionalidades:**
 
 Calcular Media Aritmética:
@@ -34,6 +36,7 @@ Calcular Media Ponderada:
 
 ## Ejercicio 10
 Este código proporciona una función para calcular el área de un triángulo dado un lado y la altura relativa a ese lado.
+
 **Funcionalidades:**
 
 Calcular Área de un Triángulo:
@@ -44,6 +47,7 @@ Calcular Área de un Triángulo:
 
 ## Ejercicio 11
 Este código proporciona una función para calcular el importe de las horas extra que se deben pagar a un empleado.
+
 **Funcionalidades:**
 
 Calcular Horas Extra:
