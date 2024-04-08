@@ -55,7 +55,9 @@ Este código proporciona dos clases relacionadas con cuentas bancarias: Cuenta y
 
 ***Clase Cuenta***
 La clase Cuenta representa una cuenta de depósito estándar en un banco.
+
 *Inicialización:* Se inicializa con un saldo inicial.
+
 *Métodos:*
 depositar(cantidad): Permite depositar una cantidad en la cuenta.
 retirar(cantidad): Permite retirar una cantidad de la cuenta, siempre y cuando no resulte en un saldo negativo. Devuelve True si la retirada fue exitosa, False en caso contrario.
@@ -63,6 +65,8 @@ obtener_saldo(): Obtiene el saldo actual de la cuenta.
 
 ***Clase CuentaConDescubierto***
 La clase CuentaConDescubierto hereda de Cuenta y representa una cuenta de depósito con descubierto autorizado.
+
 *Inicialización:* Se inicializa con un saldo inicial y un descubierto autorizado adicional.
+
 *Métodos:*
 retirar(cantidad): Permite retirar una cantidad de la cuenta, considerando el descubierto autorizado si es necesario. Devuelve True si la retirada fue exitosa, False en caso contrario.
