@@ -3,10 +3,15 @@
 Este código proporciona funciones para cálculos financieros básicos, implementado en la clase CalculadoraFinanciera.
 **Funcionalidades:**
 Calcular Precio con Impuestos Incluidos (TII):
+
 *Método:* calcular_precio_con_impuestos(precio_sin_impuestos, porcentaje_iva)
+
 *Descripción:* Calcula el precio con todos los impuestos incluidos (TII) dado el precio sin impuestos y el porcentaje de IVA.
+
 Calcular Intereses Generados:
+
 *Método:* calcular_intereses(capital, interes_anual, tiempo_meses)
+
 *Descripción:* Calcula el importe de los intereses generados por un capital invertido durante un período de tiempo en meses.
 
 ## Ejercicio 9
