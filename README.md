@@ -17,25 +17,37 @@ Calcular Intereses Generados:
 ## Ejercicio 9
 Este código proporciona funciones para calcular la media aritmética y la media ponderada de una lista de números.
 **Funcionalidades:**
+
 Calcular Media Aritmética:
+
 *Método:* calcular_media_aritmetica(num1, num2, num3)
+
 *Descripción:* Calcula la media aritmética de tres números dados.
+
 Calcular Media Ponderada:
+
 *Método:* calcular_media_ponderada(nums, pesos)
+
 *Descripción:* Calcula la media ponderada dadas las listas de números y pesos correspondientes.
 
 ## Ejercicio 10
 Este código proporciona una función para calcular el área de un triángulo dado un lado y la altura relativa a ese lado.
 **Funcionalidades:**
+
 Calcular Área de un Triángulo:
+
 *Método:* calcular_area_triangulo(lado, altura)
+
 *Descripción:* Calcula el área de un triángulo dado la longitud de un lado y la altura relativa a ese lado.
 
 ## Ejercicio 11
 Este código proporciona una función para calcular el importe de las horas extra que se deben pagar a un empleado.
 **Funcionalidades:**
+
 Calcular Horas Extra:
+
 *Método:* calcular_horas_extra(salario_mensual_bruto, horas_extra)
+
 *Descripción:* Calcula el importe de las horas extra que hay que pagar, dado el salario mensual bruto del empleado y la cantidad de horas extra trabajadas en el mes.
 
 ## Ejercicio 12
